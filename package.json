@@ -1,0 +1,12 @@
+{
+  "name": "pdp-translator",
+  "version": "0.0.0",
+  "description": "Prepares mongo import file from cached PDP requests.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Eck",
+  "license": "private",
+  "private": true
+}
